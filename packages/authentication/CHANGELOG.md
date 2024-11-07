@@ -1,5 +1,13 @@
 # Changelog
 
+## 6.3.0
+
+### Minor Changes
+
+- [`b57f1ee`](https://github.com/capawesome-team/capacitor-firebase/commit/b57f1ee264f0a614e7284307402cf2293b665913) ([#751](https://github.com/capawesome-team/capacitor-firebase/pull/751)): feat: add `idTokenChange` event listener
+
+* [`7af2032`](https://github.com/capawesome-team/capacitor-firebase/commit/7af20327a4096215210e197f91dd6ab018b34b10) ([#741](https://github.com/capawesome-team/capacitor-firebase/pull/741)): feat: add `verifyBeforeUpdateEmail` method
+
 ## 6.2.0
 
 ### Patch Changes
